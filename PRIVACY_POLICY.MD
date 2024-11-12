@@ -2,11 +2,11 @@
 
 Tip Calculator is an app that is used as a calculator. No personal and/or sensitive data is transmitted within the core functionality of the app. Below is a list of device permissions requested in app with their purpose.
 
-	<b>Permissions Requested In App</b>
+<b>Permissions Requested In App</b>
 
-⦁	<span style="color:green;">android.permission.ACCESS_NETWORK_STATE</span>
+<span style="color:green;">⦁ android.permission.ACCESS_NETWORK_STATE</span>
 	
-	The sole use of this permission is for ad placement using Admob by Google
+The sole use of this permission is for ad placement using Admob by Google
 
 
 <b>Advertising</b>
