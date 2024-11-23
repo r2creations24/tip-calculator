@@ -135,7 +135,7 @@ Please note, however, that We may need to retain certain information when we hav
 <h2>Business Transactions</h2>
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-<h2>Law enforcement<h2>
+<h2>Law enforcement</h2>
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 Other legal requirements
